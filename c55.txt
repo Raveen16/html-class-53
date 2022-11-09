@@ -1,0 +1,6 @@
+Additional resource for flexbox concepts:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+Additional resource for css properties:
+https://htmldog.com/references/css/properties/
