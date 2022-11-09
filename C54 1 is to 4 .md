@@ -1,0 +1,88 @@
+Inline CSS:
+Syntax: 
+<h1 style="color: red">
+Test Headline
+</h1>
+
+Internal CSS:
+<style>
+h1 {
+color: red;
+}
+</style>
+
+External CSS:
+<link rel="stylesheet" type="text/css" href="style.css">
+
+Basic syntax of adding the CSS to
+element:
+
+selector
+{
+  property: value
+}
+
+
+Here:
+● selector- is the HTML element to
+which we have to give the style.
+Like <h1>, <p>, etc.
+● property- this is the style which we
+have to give the elements. Like
+color, background color,
+border-style, etc.
+● Value- this is the value of the
+property, like green for color
+property, pink for background-color
+property, etc.
+
+Example:
+h1{
+color: green
+}
+
+
+
+In CSS, selectors are used to target the
+HTML elements on the web pages that
+we want to style. There is a wide range of
+variety of CSS selectors available
+
+CSS ELEMENT selector:
+p {
+text-align: center;
+color: red;
+}
+
+CSS ID selector:
+#para1 {
+text-align: center;
+color: red;
+}
+
+Class Selector:
+.center {
+text-align: center;
+color: red;
+}
+
+Universal selector:
+* {
+text-align: center;
+color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
